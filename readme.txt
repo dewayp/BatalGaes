@@ -1,2 +1,0 @@
-tes aja
-hello world!
